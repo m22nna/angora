@@ -1,0 +1,30 @@
+.words h1{
+    font-size: 80px;
+   font-weight: 700;
+   text-align: center;
+    font-family: Anton
+  
+    }
+    .words p{
+        font-size: 35px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .buttons button{
+        background-color: #0000FF;
+        color: white;
+        width: 240px;
+        height:80px ;      
+    }
+    .buttons button:hover {
+        background-color: #008000;
+    }
+    .buttons{
+        display: flex;
+        justify-content: center;
+    }
+    .palce p{
+        text-align: center;
+        font-size: 35px;
+        font-weight: 400;
+    }
